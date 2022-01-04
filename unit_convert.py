@@ -13,7 +13,7 @@ if unit1 in units and unit2 in units:
     if unit1 == 'mm' and unit2 == 'cm':
         converted_num = num/10
 
-    elif unit == 'mm' and unit2 == 'm':
+    elif unit1 == 'mm' and unit2 == 'm':
         converted_num = num/1000
         
     elif unit1 == 'cm' and unit2 == 'mm':
