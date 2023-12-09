@@ -4,7 +4,6 @@
 
 ### Source Code [Madlibs_Generator.py](https://github.com/crazycodersonline/Python-Beginner-Projects/blob/main/Madlibs_Generator.py).
 
-#### If you want to Know How to Make a Mad Libs Generator in Python you are on the right video.
 #### This Video Tutorial is all about Mad libs Generator using Python, this is a beginner type of Python Project one must try this if they know the basics of Python.
 
 ### [Watch Video](https://www.youtube.com/watch?v=GXDhQVocCeI):point_down:
@@ -17,7 +16,7 @@
 
 ### Source Code [Guess_game.py](https://github.com/crazycodersonline/Python-Beginner-Projects/blob/main/Guess_game.py).
 
-#### Hello and welcome to yet another beginner level python projects
+#### In this tutorial we will make a basic number guessing game.
 
 ### [Watch Video](https://www.youtube.com/watch?v=GmKQ4QEzBVE):point_down:
 
@@ -30,8 +29,7 @@
 
 ### Source Code [Rock_Paper_Scissor.py](https://github.com/crazycodersonline/Python-Beginner-Projects/blob/main/Rock_Paper_Scissor.py)
 
-#### In this video tutorial, we are going to build our Own Rock Paper Scissor Game using python.
-#### which is a very interesting python Project for Beginners
+#### In this video tutorial, we are going to build our Own Rock Paper Scissor Game using Python. It is a very interesting Python project for Beginners
 
 
 ### [Watch Video](https://www.youtube.com/watch?v=XTdHQW2WU0c):point_down:
@@ -47,8 +45,7 @@
 
 ### Source Code [Binary_Search_Algorithm.py](https://github.com/crazycodersonline/Python-Beginner-Projects/blob/main/Binary_Search_Algorithm.py)
 
-#### This is the 4th video of beginner-level Python Projects.
-#### Binary Search Algorithm
+#### This is the 4th project of the beginner-level Python Projects series. In this tutorial, we will code a Binary Search Algorithm
 
 
 ### [Watch Video](https://www.youtube.com/watch?v=fgExjWR5iXw):point_down:
@@ -63,9 +60,8 @@
 
 ### Source Code [website_blocker.py](https://github.com/crazycodersonline/Python-Beginner-Projects/blob/main/website_blocker.py)
 
-#### Learn how to block a website using Python script.
-#### It is a part of our beginner Python projects series, do check out our other Python projects tutorial. 
-#### Doing projects is the best way to learn code.
+#### In this project learn how to block a website using Python script.
+
 
 ### [Watch Video](https://www.youtube.com/watch?v=U3H0PcHINLo):point_down:
 
@@ -139,5 +135,5 @@
 
 
 
-
+#### Doing projects is the best way to learn code.
 # [Access Full Playlist](https://www.youtube.com/playlist?list=PL-sBHWqYN7dUuHDPKgFzDvDEpaY8jB4XZ)
